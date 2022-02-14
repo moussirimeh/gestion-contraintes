@@ -1,0 +1,10 @@
+
+
+.ui-progressbar-determinate .ui-progressbar-label {
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    display: none;
+    font-weight: bold;
+}
